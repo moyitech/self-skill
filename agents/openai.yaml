@@ -1,0 +1,4 @@
+interface:
+  display_name: "Self Skill"
+  short_description: "Distill your docs and messages into a working self skill"
+  default_prompt: "Use $self-skill to distill my documents, messages, and work habits into a self skill that can work and reply like me."
