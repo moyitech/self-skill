@@ -1,6 +1,6 @@
 <div align="center">
 
-# self.skill
+# 自己.skill
 
 > *“如果总有一天你要把自己交接给未来的自己，不如先把自己蒸馏成一个可运行的 Skill。”*
 
